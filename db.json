@@ -20,7 +20,34 @@
         "line2": "(14%)"
       }
     ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "students": [
+        {
+            "name": "Annete Watson",
+            "marks": 9.3
+        },
+        {
+            "name": "Calvin Steward",
+            "marks": 8.9
+        },
+        {
+            "name": "Ralph Richards",
+            "marks": 8.7
+        },
+        {
+            "name": "Bernard Murphy",
+            "marks": 8.2
+        },
+        {
+            "name": "Arlene Robertson",
+            "marks": 8.2
+        },
+        {
+            "name": "John Lane",
+            "marks": 8.1
+        },
+        {
+            "name": "Pat McKinney",
+            "marks": 7.9
+        }
+    ]
+}
